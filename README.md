@@ -8,5 +8,5 @@
 - I enjoy working with the backend
 
 <p align="center">
-  <img src="https://media.giphy.com/media/NVBR6cLvUjV9C/giphy.gif" width="250" alt="The Legend of Zelda GIF" />
+  <img src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480"  />
 </p>

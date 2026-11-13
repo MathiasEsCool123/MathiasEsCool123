@@ -6,7 +6,4 @@
 - I am a developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the backend
-
-<p align="center">
-  <img src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480"  />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>

@@ -1,4 +1,4 @@
-<h1>Hello! I'm Mauro Vera <img src="https://media.giphy.com/media/NVBR6cLvUjV9C/giphy.gif" width="30px" alt="Zelda"> 🚀</h1>
+<h1>Hello! I'm Mauro Vera <img src="https://media.giphy.com/media/NVBR6cLvUjV9C/giphy.gif" width="50px" alt="Zelda"> 🚀</h1>
 <h2>Frontend Developer</h2>
 
 ### About Me
